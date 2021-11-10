@@ -6,7 +6,7 @@
 }
 body{
   height:100vh;
-  background-image:url(./img/the\ witcher\ hell.png,)url(./img/the\ witcher\ kavil2.png)url(./img/the\ witcher.jpeg.png);
+  background-image:url(./img/the\ witcher.jpeg.png),url(./img/the\ witcher\ kavil2.png),url(./img/the\ witcher\ hell.png);
   background-size:20vw auto,15vw auto, contain, cover;
   background-repeat:no-repeat;
   background-position:center 50vh,center 75vh, center 25px, center;
